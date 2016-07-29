@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RxRetrofit</string>
+
+    <string name="activity_main_country">Country</string>
+    <string name="activity_main_continent">Continent</string>
+    <string name="activity_main_capital">Capital</string>
+    <string name="activity_main_code">In</string>
+    <string name="server_call">Tap on floating action button to make server call</string>
+
+</resources>
